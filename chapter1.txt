@@ -1,3 +1,1 @@
 Meu capitulo 001 - alterado na branch `dev`
-1) DESCRIÇÃO DE ALTERAÇÃO EM FETURE
-1) Linha inserida em DEV
